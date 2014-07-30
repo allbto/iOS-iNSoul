@@ -1,0 +1,9 @@
+
+// ------ CHANGE LOG ------ //
+
+// - Version 2.0 - //
+
+- Update design to ios7
+- Redesign of message exchange screen
+
+- Added ad banners, if you like the application, please support by cliking
