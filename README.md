@@ -17,7 +17,7 @@ iNSoul est l'outil indispensable de tous les teks possédants un appareil iOS.
 Technical specification
 ------
 
-Comming...
+Coming...
 
 Screenshots
 ------
