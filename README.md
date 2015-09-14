@@ -14,11 +14,6 @@ Vous pouvez également communiquer avec tous vos contact netsoul directement dep
 
 iNSoul est l'outil indispensable de tous les teks possédants un appareil iOS.
 
-Technical specification
-------
-
-Coming...
-
 Screenshots
 ------
 
