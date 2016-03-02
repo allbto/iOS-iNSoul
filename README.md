@@ -4,15 +4,11 @@ iNSoul
 Functional specification
 ------
 
-##### *iNSoul* est la meilleure application iOS pour vous donner l'accès à internet lorsque vous êtes connectés au wifi de votre école IONIS.
+##### *iNSoul* is the best application to allow EPITECH students to be able to navigate on the internet while connected to the school wifi.
 
-Avec une interface simple, vous pouvez facilement vous identifier et crée une connexion avec netsoul directement depuis votre iPhone / iPod Touch / iPad.
+With an ergonomic user experience, you can easily identify yourself and create a connection to the netsoul network, direclty from your iPhone / iPod Touch / iPad.
 
-L'application tourne en tâche de fond pour vous permettre d'utiliser toutes vos applications utilisant internet, directement depuis le wifi de votre école IONIS.
-
-Vous pouvez également communiquer avec tous vos contact netsoul directement depuis l'application.
-
-iNSoul est l'outil indispensable de tous les teks possédants un appareil iOS.
+You can also directly talk to your colleagues with the integrated messaging system.
 
 Screenshots
 ------
